@@ -5,6 +5,7 @@
   }
 
   .d3-tip {
+    font-size:.75em; 
     line-height: 1;
     font-weight: normal;
     padding: 12px;
