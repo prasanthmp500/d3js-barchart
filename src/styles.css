@@ -9,9 +9,11 @@
     line-height: 1;
     font-weight: normal;
     padding: 12px;
-    background:aquamarine;
+    background:white;
     color:deepskyblue;
-    border-radius: 2px;
+    border-style: solid;
+    border-color: black;
+    border-width: .5px;
   }
   
   /* Creates a small triangle extender for the tooltip */
